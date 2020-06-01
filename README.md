@@ -1,7 +1,5 @@
 # Jemerick Castillo - Laboratorio #5
 
-## Indicaciones del laboratorio
-
 ###  Resolver los siguientes problemas usando Javascript, ejecutado dentro de la máquina virtual de Debian/Ubuntu
 
 * Declarar dos variables con la palabra reservada "var", imprimir el resultado de las operaciones de "Suma", "Resta", "Multiplicación" y "División" en la consola.
